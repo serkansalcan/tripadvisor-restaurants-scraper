@@ -20,6 +20,7 @@
   <li><code>istanbul.py</code>: Scrapy spider that defines the crawling behavior and data extraction logic.</li>
   <li><code>items.py</code>: Item class that represents the structure of the scraped data.</li>
   <li><code>pipelines.py</code>: Pipeline class responsible for processing and storing the scraped data in a MySQL database.</li>
+  <li><code>settings.py</code>: A configuration file for the Scrapy project, allowing to customize the behavior of the project by modifying various settings.</li>
 </ul>
 
 <p>Make sure to update the database connection details in the <code>pipelines.py</code> file by providing the appropriate values for <code>host</code>, <code>user</code>, and <code>password</code> variables.</p>
