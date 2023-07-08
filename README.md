@@ -32,3 +32,7 @@
 </pre>
 
 <p>The spider will start scraping restaurant data from TripAdvisor and store it in the MySQL database.</p>
+
+<h2>Scraped Data</h2>
+
+<p>The scraped data is available in the <a href="https://github.com/serkansalcan/tripadvisor-restaurants-scraper/blob/main/restaurants.sql">restaurants.sql</a> file in this repository. You can download and explore the extracted information.</p>
